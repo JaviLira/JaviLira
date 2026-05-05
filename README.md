@@ -12,3 +12,4 @@ Hola, mi nombre es Javi Lira, desarrollador junior de aplicaciones full stack.
 Proyectos.
 
 * [MyMasterRaceFront](https://javilira.github.io/MyMasterRaceFront/). Tecnologias: Spring Boot, Java, Hibernate,Angular,TypeScript, BootStrap, Primeng, CSS, HTML, Javascript.
+* [Portfolio](https://javilira.github.io/portfolio/). Tecnologias: Angular,TypeScript, BootStrap, CSS, HTML, Javascript.
